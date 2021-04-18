@@ -1,0 +1,7 @@
+﻿  Application.cpp
+    正在创建库 ..\bin\Debug-windows-x86_64\Hazel\Hazel.lib 和对象 ..\bin\Debug-windows-x86_64\Hazel\Hazel.exp
+  Hazel.vcxproj -> C:\dev\Hazel\bin\Debug-windows-x86_64\Hazel\Hazel.dll
+  'xcopy' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: 命令“IF EXIST ..\bin\Debug-windows-x86_64\Hazel\Hazel.dll\ (xcopy /Q /E /Y /I ..\bin\Debug-windows-x86_64\Hazel\Hazel.dll ..\bin Debug-windows-x86_64\SandBox > nul) ELSE (xcopy /Q /Y /I ..\bin\Debug-windows-x86_64\Hazel\Hazel.dll ..\bin Debug-windows-x86_64\SandBox > nul)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd”已退出，代码为 9009。
